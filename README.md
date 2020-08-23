@@ -7,3 +7,4 @@ My Hypotheis Question was
 
 This bar graph shows the winning percentages of the NFL's most successful teams in the recent years. It shows that teams like New England Patriots are maintaining a high winning percentage in the past 5 years, whereas team like Denver Broncos has a decline in their winning percentages in the recent years. This visualization shows that New England Patriot has been a strong team compared to any other teams in the recent years
 
+![Data Visualization](NFL.PNG)
